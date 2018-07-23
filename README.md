@@ -1,6 +1,8 @@
 # Time_Set_OSx
 Source for GoLang app to set OS X system time.
 
+To compile, navigate to systime directory and run: "go build"
+
 -Utilizes GoLang NTP client uploaded by beevik to Github - https://github.com/beevik/ntp
 
 -Basic code structure referenced from https://stackoverflow.com/questions/48906483/how-to-set-systems-date-and-time-via-go-syscall
